@@ -18,7 +18,7 @@
 ### How have overdose death rates changed over time across different drug types, and which drug type has driven recent increases?
 **Importance:** This question is important because it takes a closer look at how overdose death rates have evolved in comparison to specific drug types. Drug use patterns shift over time due to social and behavioral factors. Socially, the rise in overdose death rates affects communities and this data helps identify which drugs populations are struggling with. There are also behavioral usage changes that have evolved during different time periods. This data set allows for a greater understanding and breaks down which drugs were used more frequently during a certain time period. Overall, analyzing and identifying which drug type is contributing to a rise in death rates can help healthcare providers design better intervention and prevention resources.
 
-
+![plot](./Graph1.1.jpg)
 
 **Graphs 1 and 2 Analysis and Results:** Graph 1 & 2 show how overall drug overdose death rates have changed over time through 1999 to 2018. These graphs illustrate an increase in opioids, including synthetic (fentanyl), drug overdose deaths. We noticed a slight decrease in overdose deaths in methadone and heroin, and a larger decrease with natural/semisynthetic opioids. In the past heroin contributed to a greater majority of deaths due to being easier to access than prescription opioids. Heroin acted as a transition between prescription drugs and synthetic opioids(fentanyl), which is cheaper to produce and more potent for users.
 
