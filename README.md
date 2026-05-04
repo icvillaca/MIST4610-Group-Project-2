@@ -9,7 +9,7 @@
 3. Phoebe Prescott [@phoebeprescott](https://github.com/phoebeprescott)
 4. Alexa Persad [@aepersad](https://github.com/aepersad)
 
-## Overview of Data Set 
+## Overview of Data Set: 
 
 
 
