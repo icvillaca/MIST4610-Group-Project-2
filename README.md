@@ -13,16 +13,11 @@
 
 
 
-## Questions:
-### Question 1: How have overdose death rates changed over time across different drug types, and which drug type has driven recent increases?
 
-### Question 2: Which demographic groups (by age, race, or sex) have the highest overdose death rates, and how have these patterns changed over time? 
+## Question 1: How have overdose death rates changed over time across different drug types, and which drug type has driven recent increases?
+
+## Question 2: Which demographic groups (by age, race, or sex) have the highest overdose death rates, and how have these patterns changed over time? 
 This is an important topic because this question illustrates real lives lost, not just statistics. By understanding how the death rates differ by age, race, or sex, we can see where the problem is the most severe. Then using that data, targeted efforts can be made to prevent overdoses. This matters because according to the data, drug overdose death rates are steadily increasing, meaning that without action, overdoses will continue to be one of the leading causes of preventable deaths in the United States.
-
-
-
-
-
 
 ## Question 2 Analysis
 ![image alt](https://github.com/icvillaca/MIST4610-Group-Project-2/blob/bde6330fed3e0f1bab5f11f38605f1eec23e8113/question2MIST.png) 
