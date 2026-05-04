@@ -40,7 +40,8 @@
 
 
 
-## Appendix: Data Cleaning Manipulations
+## Appendix:
+**Data Cleaning Manipulations**
 
 | # | Type | Original | Change |
 |---|------|----------|--------|
