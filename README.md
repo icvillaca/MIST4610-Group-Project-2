@@ -1,11 +1,22 @@
 # MIST4610-Group-Project-2
 
+## Team Name:
+21479 Group 3
+
+## Team Members:
+1. Isabel Villaca [@icvillaca](https://github.com/icvillaca)
+2. Carson Farris [@carsonf17](https://github.com/carsonf17)
+3. Phoebe Prescott [@phoebeprescott](https://github.com/phoebeprescott)
+4. Alexa Persad [@aepersad](https://github.com/aepersad)
+
+## Overview of Data Set 
+
 
 
 ## Questions:
 ### Question 1: How have overdose death rates changed over time across different drug types, and which drug type has driven recent increases?
 
-###question 2: Which demographic groups (by age, race, or sex) have the highest overdose death rates, and how have these patterns changed over time? 
+### Question 2: Which demographic groups (by age, race, or sex) have the highest overdose death rates, and how have these patterns changed over time? 
 This is an important topic because this question illustrates real lives lost, not just statistics. By understanding how the death rates differ by age, race, or sex, we can see where the problem is the most severe. Then using that data, targeted efforts can be made to prevent overdoses. This matters because according to the data, drug overdose death rates are steadily increasing, meaning that without action, overdoses will continue to be one of the leading causes of preventable deaths in the United States.
 
 
