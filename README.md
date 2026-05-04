@@ -14,9 +14,12 @@
 
 
 
-## Question 1: How have overdose death rates changed over time across different drug types, and which drug type has driven recent increases?
+## Question 1:
+### How have overdose death rates changed over time across different drug types, and which drug type has driven recent increases?
+This question is important because it takes a closer look at how overdose death rates have evolved in comparison to specific drug types. Drug use patterns shift over time due to social and behavioral factors. Socially, the rise in overdose death rates affects communities and this data helps identify which drugs populations are struggling with. There are also behavioral usage changes that have evolved during different time periods. This data set allows for a greater understanding and breaks down which drugs were used more frequently during a certain time period. Overall, analyzing and identifying which drug type is contributing to a rise in death rates can help healthcare providers design better intervention and prevention resources. 
 
-## Question 2: Which demographic groups (by age, race, or sex) have the highest overdose death rates, and how have these patterns changed over time? 
+## Question 2:
+### Which demographic groups (by age, race, or sex) have the highest overdose death rates, and how have these patterns changed over time? 
 This is an important topic because this question illustrates real lives lost, not just statistics. By understanding how the death rates differ by age, race, or sex, we can see where the problem is the most severe. Then using that data, targeted efforts can be made to prevent overdoses. This matters because according to the data, drug overdose death rates are steadily increasing, meaning that without action, overdoses will continue to be one of the leading causes of preventable deaths in the United States.
 
 ## Question 2 Analysis
