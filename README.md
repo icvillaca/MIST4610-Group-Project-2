@@ -18,11 +18,11 @@ The dataset used comes from the National Vital Statistics System (NVSS) publishe
 
 ![plot](./Graph1.1.png)
 
-![plot](./Graph1.1.png)
+![plot](./Graph1.2.png)
 
 **Graphs 1 and 2 Analysis and Results:** Graph 1 & 2 show how overall drug overdose death rates have changed over time through 1999 to 2018. These graphs illustrate an increase in opioids, including synthetic (fentanyl), drug overdose deaths. We noticed a slight decrease in overdose deaths in methadone and heroin, and a larger decrease with natural/semisynthetic opioids. In the past heroin contributed to a greater majority of deaths due to being easier to access than prescription opioids. Heroin acted as a transition between prescription drugs and synthetic opioids(fentanyl), which is cheaper to produce and more potent for users.
 
-![plot](./Graph1.1.png)
+![plot](./Graph1.3.png)
 
 **Graph 3 Analysis and Results:** Graph 3 visualizes the most recent year, 2018, and shows each drug type as a percentage of total overdose deaths. This helps identify which substances are currently making up the largest share of overdose deaths, and is the most up to date data. This graph shows that the drug overdose crisis is very much driven by opioids (26%), and is the largest group overall. The most important category for analysis is synthetic opioids(fentanyl), which is the most dangerous and fastest growing (supported by graph 1 & 2). The rise in synthetic opiods is an abnormal flucuation, implying the crisis is equally driven by the supply-side rather than exclusivley user behaviors. The main implications of this analysis is that public health care should focus on care for synthetic opioid use, while still paying attention to other drug types. Prevention and treatment efforts should focus on the psychological and physical effects for fentanyl to bring the biggest decrease in overdose deaths. This analysis is important because it connects overdose trends to real-world healthcare and policy decisions.
 
